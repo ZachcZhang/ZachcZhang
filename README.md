@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ZachcZhang.I am a RA(Research Assistant) at the Hong Kong University of Science and Technology(GZ).I used to work at Tencent as an operation and maintenance developer.
-- 👀 I am interested in full stack development, SRE, data analysis, machine learning, deep learning.
+- 👋 Hi, I’m ZachcZhang.I am a RA(Research Assistant) at the Hong Kong University of Science and Technology(GZ).I used to work at Tencent as an DevOps Engineer.My job is shifting towards the field of AI.
+- 👀 I am interested in full stack development, software devlopment, data analysis, machine learning, deep learning.
 - 🌱 I’m currently learning data analysis, machine learning, deep learning.
 - 📫 My email: czhangcn@connect.ust.hk
